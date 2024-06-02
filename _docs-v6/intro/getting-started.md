@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: How to initialize a calendar
+title: Stroll Post Schedule 
+description: Dates for when to post for Stroll
 ---
 
 The simplest way to get started is with FullCalendar's pre-built bundles and `<script>` tags:
